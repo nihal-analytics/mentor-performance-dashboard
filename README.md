@@ -22,10 +22,10 @@ Enabled real-time performance tracking and reduced manual reporting efforts.
 ## 📸 Dashboard Preview
 
 ### 🔹 Overview
-![Overview](dashboard-overview.png.jpeg)
+![Overview](dashboard-overview.jpeg)
 
 ### 🔹 Key Metrics
-![KPIs](dashboard-kpis.png.jpeg)
+![KPIs](dashboard-kpis.jpeg)
 
 ### 🔹 Insights
-![Insights](dashboard-insights.png.jpeg)
+![Insights](dashboard-insights.jpeg)
