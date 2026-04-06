@@ -20,4 +20,12 @@ To improve program efficiency by identifying performance gaps and enabling data-
 Enabled real-time performance tracking and reduced manual reporting efforts.
 
 ## 📸 Dashboard Preview
-(Screenshots will be added here)
+
+### 🔹 Overview
+![Overview](dashboard-overview.png.jpeg)
+
+### 🔹 Key Metrics
+![KPIs](dashboard-kpis.png.jpeg)
+
+### 🔹 Insights
+![Insights](dashboard-insights.png.jpeg)
