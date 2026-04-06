@@ -29,3 +29,6 @@ Enabled real-time performance tracking and reduced manual reporting efforts.
 
 ### 🔹 Insights
 ![Insights](dashboard-insights.jpeg)
+
+
+Note: This project is based on real-world program analytics use cases. All data shown is anonymized and for demonstration purposes only.
